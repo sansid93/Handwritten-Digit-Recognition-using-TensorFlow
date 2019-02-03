@@ -1,3 +1,5 @@
+## MultiLayer Perceptron to classify Handwritten digits using TensorFlow
+
 Implemented a Mulit layer perceptron to accurately classify the handwritten digits in the MNIST dataset with 97% accuracy
 
 Used Relu activation function for the hidden layer and used Softmax activation function for the output layer
