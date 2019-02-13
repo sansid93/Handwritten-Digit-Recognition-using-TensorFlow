@@ -9,4 +9,4 @@ The below are the parameters that are used in training the neural networks
 * No of Hidden layers:2
 * No of Epochs: 15
 * learning_rate = 0.001 
-* batch_size = 100
+* batch_size : 100
